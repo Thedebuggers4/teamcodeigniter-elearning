@@ -9,7 +9,7 @@ ____
 ### Panduan:
 #### Added
 - Support PHP 7.4 ~ 8.3
-- Login CBT
+- Login e-learnix's
 - Update foto siswa perkelas
 - Auto logout admin setelah ganti password
 - Import Guru dengan foto

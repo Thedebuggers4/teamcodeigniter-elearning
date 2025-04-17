@@ -30,8 +30,8 @@ ____
 - Hasil export nilai Excel header tabel tidak pas ketika tidak ada soal PG
 - Nilai siswa ketika diulang
 - Tanda petik di header Kartu Ujian, Daftar Kehadiran dan Berita Acara
-- Nilai harian (eLearning)
-- Edit Materi (eLearning)
+- Nilai harian (e-Learning)
+- Edit Materi (e-Learning)
 
 
 ___________

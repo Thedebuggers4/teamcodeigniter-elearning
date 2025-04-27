@@ -43,6 +43,7 @@ Kami selaku pengembang aplikasi ini terdiri :
 - Arya Dillah - Backend Dev
 - Adi Satria Sejati - Frontend Dev
 - Febrian Sitorus - UI/UX Dev
+  
 Mengucapkan banyak-banyak terima kasih atas dukungan dan bimbingannya. 
 ______________
 

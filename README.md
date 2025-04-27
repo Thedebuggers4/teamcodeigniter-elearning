@@ -42,7 +42,8 @@ Aplikasi ini akan dihibahkan untuk SMK Teknologi Pilar Bangsa dengan tujuan untu
 Kami selaku pengembang aplikasi ini terdiri :
 - Arya Dillah - Backend Dev
 - Adi Satria Sejati - Frontend Dev
-- Febrin Sitorus - UI/UX Dev
+- Febrian Sitorus - UI/UX Dev
+Mengucapkan banyak-banyak terima kasih atas dukungan dan bimbingannya. 
 ______________
 
 ----
